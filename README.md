@@ -1,22 +1,22 @@
 <img src="/b8688269-bb76-470f-9db9-0cdb675f848b.jpg">
 <h1>yavuz bulut</h1>                     
-<h2>bilgisayar programciligi ogrencisi</h2>
+<h4>bilgisayar programciligi ogrencisi</h4>
 <u>KISISEL BILGILER</u>
-<h3>dogum tarihi  :20.09.1979</h3>
-<h3>Medeni Durumu :Evli</h3>
-<h3>Askerlik      :Tamamlandi</h3>
+<h5>dogum tarihi  :20.09.1979</h5>
+<h5>Medeni Durumu :Evli</h5>
+<h5>Askerlik      :Tamamlandi</h5>
 <br>
 <u>ILETISIM</u>
-<h3>tel        : 05076366061</h3>
-<h3>e-mail     : yavuzbulut79@outlook.com</h3>
-<h3>konum      : Konya Karatay</h3>
+<h5>tel        : 05076366061</h5>
+<h5>e-mail     : yavuzbulut79@outlook.com</h5>
+<h5>konum      : Konya Karatay</h5>
 <br> 
 <u>KARIER</u>
-<h3>Bosch Tienen</h3>
-<h3>Ford Genk</h3>
-<h3>Keune&Nagel Geel</h3>
-<h3>Daf Westerlo</h3>
-<h3>Metaal coating Beringen</h3>
+<h5>Bosch Tienen</h5>
+<h5>Ford Genk</h5>
+<h5>Keune&Nagel Geel</h5>
+<h5>Daf Westerlo</h5>
+<h5>Metaal coating Beringen</h5>
 <br>
 <u>DILLER</u>
 <ul>
